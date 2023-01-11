@@ -9,7 +9,7 @@ var (
 )
 
 const (
-  version = "v0.1.0"
+  version = "v0.1.2"
   banner  = `
              _
      ` + version + ` | |
