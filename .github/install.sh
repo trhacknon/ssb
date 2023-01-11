@@ -348,7 +348,7 @@ End of functions from https://github.com/client9/shlib
 EOF
 
 PROJECT_NAME="ssb"
-OWNER=kitabisa
+OWNER=trhacknon
 REPO="ssb"
 BINARY=ssb
 FORMAT=tar.gz
