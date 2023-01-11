@@ -19,7 +19,7 @@ const (
     |___/___/_.__/
 
 Secure Shell Bruteforcer
-  infosec@kitabisa.com
+     by trhacknon
 
 `
   usage = `Usage:
